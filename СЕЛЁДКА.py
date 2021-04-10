@@ -247,3 +247,5 @@ while game:
         i.put()
         i.move()
     display.update()
+    
+    Hi  beach
