@@ -54,3 +54,5 @@ while game:
         dobo.rect.y += 1
     display.update()
     clock.tick(FPS)
+    
+    привет как у тебя дела? кст чо делаешь?
